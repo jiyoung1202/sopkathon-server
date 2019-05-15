@@ -12,9 +12,12 @@
 
 ----------
 
+![rollingforyou.jpg](</data/rollingforyou.jpg>)
 
+### 서버 주요기능
 
-주요기능
+- 롤링페이퍼 생성 및 불러오기 (paper)
+- 친구의 롤링페이퍼의 댓글 작성 (comment)
 
  
 
@@ -26,9 +29,7 @@
 
  
 
- 
-
-개발 환경& 프레임워크
+개발 환경 및 도구 & 프레임워크
 
 - Node.js - 
 - Express.js - 
@@ -37,11 +38,6 @@
 - Mysql
 - AWS RDS
 - AWS EC2
-- 
-
- 
-
-사용모듈
 
  
 
